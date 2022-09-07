@@ -44,7 +44,7 @@ body{
 
 .action{
  display: flex;
- justify-content: start;
+ justify-content: center;
  gap: .6rem;
  padding-left: .6rem;
 }
